@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T14:05:03.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="PmyIGvCp_k-M1UaRE8Sg" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T14:06:48.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="uLXOgIEUiphGutYUa1A1" version="21.6.8" type="github">
   <diagram name="Page-1" id="Nq0isPCs4g1FgNZa7CM_">
     <mxGraphModel dx="1235" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="l28jz9vILIx-UigTFA-E-4" value="Renter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="308" y="414" width="91" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l28jz9vILIx-UigTFA-E-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;open renter_dashboard.php&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="l28jz9vILIx-UigTFA-E-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;renter_dashboard.php&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="569" y="380" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="l28jz9vILIx-UigTFA-E-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.013;exitY=0.591;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.999;entryY=0.67;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="l28jz9vILIx-UigTFA-E-4">
@@ -103,7 +103,7 @@
         <mxCell id="l28jz9vILIx-UigTFA-E-9" value="previous listings,&lt;br&gt;bookings and payments" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="439" y="450" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l28jz9vILIx-UigTFA-E-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;open admin_dashboard.php&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="l28jz9vILIx-UigTFA-E-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;admin_dashboard.php&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="569" y="570" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="l28jz9vILIx-UigTFA-E-11" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
