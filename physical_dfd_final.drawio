@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T06:23:47.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="wzsvelm80L1h3Qz6bZ_S" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T06:41:14.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="9E83tTQt2h34V2id5XEc" version="21.6.8" type="github">
   <diagram name="Page-1" id="Nq0isPCs4g1FgNZa7CM_">
-    <mxGraphModel dx="1313" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="477" dy="271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -239,7 +239,7 @@
         <mxCell id="1g0i3YnjJMS6aiEu7ahx-20" value="register" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="872" y="734.47" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1g0i3YnjJMS6aiEu7ahx-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.971;exitY=0.353;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+        <mxCell id="1g0i3YnjJMS6aiEu7ahx-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.987;exitY=0.444;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="l28jz9vILIx-UigTFA-E-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="685" y="679.47" as="sourcePoint" />
             <mxPoint x="848" y="650.47" as="targetPoint" />
@@ -249,7 +249,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1g0i3YnjJMS6aiEu7ahx-22" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+        <mxCell id="1g0i3YnjJMS6aiEu7ahx-22" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;exitX=0.964;exitY=0.755;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="l28jz9vILIx-UigTFA-E-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="683" y="714.47" as="sourcePoint" />
             <mxPoint x="848" y="744.47" as="targetPoint" />
@@ -290,6 +290,9 @@
         </mxCell>
         <mxCell id="1g0i3YnjJMS6aiEu7ahx-28" value="listed vehicles&#39;s details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="698" y="533" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1g0i3YnjJMS6aiEu7ahx-29" value="request for checking rentees,payment &amp;amp; renters" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="698" y="733" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
