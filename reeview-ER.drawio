@@ -71,7 +71,7 @@
           <mxGeometry x="400" y="405" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G_u9hs9IfjCtMMZhX1Wt-19" value="Recommendation/Verdict" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="412.5" width="150" height="35" as="geometry" />
+          <mxGeometry x="510" y="410.5" width="150" height="35" as="geometry" />
         </mxCell>
         <mxCell id="G_u9hs9IfjCtMMZhX1Wt-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -95,6 +95,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="410" as="sourcePoint" />
             <mxPoint x="587" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G_u9hs9IfjCtMMZhX1Wt-26" value="History" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="334" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="G_u9hs9IfjCtMMZhX1Wt-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0.039;entryY=0.714;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="G_u9hs9IfjCtMMZhX1Wt-15" target="G_u9hs9IfjCtMMZhX1Wt-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="390" as="sourcePoint" />
+            <mxPoint x="345" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
